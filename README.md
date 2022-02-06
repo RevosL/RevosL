@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RevosL&theme=dark">
   </div>
   <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=barbisliboni&theme=nord&column=7" >
+<img src="https://github-profile-trophy.vercel.app/?username=RevosL&theme=nord&column=7" >
 
 <div style="display: inline_block"><br>
   <img align="center" alt="RevosL-html"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">

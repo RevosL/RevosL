@@ -42,5 +42,5 @@ Here are some ideas to get you started:
   <img align="center" alt="RevosL-csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="RevosL-python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="RevosL-msqlserver"  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img align="center" alt="Solidity" height="50" width="20" src="https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg">
+  <img align="center" alt="Solidity" height="50" width="20" src="https://miro.medium.com/max/1302/1*PZv6C_X671fktg1t7CZvcg.png">
 </div>

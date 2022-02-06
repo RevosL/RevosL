@@ -42,6 +42,5 @@ Here are some ideas to get you started:
   <img align="center" alt="RevosL-csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="RevosL-python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="RevosL-msqlserver"  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img align="center" alt="classic ASP (Active Server Pages)" height="28" width="56" src="https://user-images.githubusercontent.com/88748637/150883584-f1a99b8d-bd54-49de-b7ad-6b06c77f03d3.png">
-  <img align="center" alt="Visual Basic 6" height="28" width="56" src="https://user-images.githubusercontent.com/88748637/150884149-e5d5cfce-f07c-4504-97fa-a00fd5741ad4.png">
+  <img align="center" alt="Solidity" height="50" width="20" src="https://imgur.com/sQyeg9O">
 </div>
